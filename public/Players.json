@@ -1,0 +1,125 @@
+[
+    {
+        "id": 1,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYdY_K-m5XPblXaOy8CkR3VuvkrhyKFcxGA&s",
+        "position": "All-rounder",
+        "ratings": 790,
+        "type": "Spin-Bowling All-rounder",
+        "price": 1100000
+    },
+    {
+        "id": 2,
+        "name": "Virat Kohli",
+        "country": "India",
+        "image": "https://cdn.britannica.com/48/252748-050-C514EFDB/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.jpg",
+        "position": "Top-order Batter",
+        "ratings": 845,
+        "type": "Batsman",
+        "price": 1800000
+    },
+    {
+        "id": 3,
+        "name": "Travis Head",
+        "country": "Australia",
+        "image": "https://dims.apnews.com/dims4/default/70b35a8/2147483647/strip/true/crop/6482x4322+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F52%2F3f%2F90cf1d2bf08300b7d5cd788a74fb%2F08cda590876343479da6c4474a753fde",
+        "position": "Opening Batter",
+        "ratings": 820,
+        "type": "Batsman",
+        "price": 1200000
+    },
+    {
+        "id": 4,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "image": "https://www.cricketcountry.com/wp-content/uploads/2024/02/Babar-Azam-1.jpg",
+        "position": "Top-order Batter",
+        "ratings": 872,
+        "type": "Batsman",
+        "price": 1600000
+    },
+    
+    {
+        "id": 5,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "image": "https://i.dawn.com/primary/2024/06/26184210181bb48.jpg",
+        "position": "Bowler",
+        "ratings": 803,
+        "type": "Spinner",
+        "price": 1300000
+    },
+    
+    {
+        "id": 6,
+        "name": "Mahmudullah Riyad",
+        "country": "Bangladesh",
+        "image": "https://www.newagebd.com/files/records/news/202311/217762_148.jpg",
+        "position": "All-rounder",
+        "ratings": 678,
+        "type": "All-rounder",
+        "price": 350000
+    },
+    {
+        "id": 7,
+        "name": "Ben Stokes",
+        "country": "England",
+        "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdO9QjLRT5IzYttB9LMu6pqzO_4LjqWEHFqdQbG9o61y2wWS5sSiBGjfK4yLn4-1wc941tYGvnYwH6Qoy7xGu3CCFVkuIbvWyDEJMJnswFzdYf_jKwlIsmhcK4qWz8DbZ9Ycbt53nvQGZSZrsmMn-D85vCt?key=ULCSDucA4_w_EziuJ8e36A",
+        "position": "All-rounder",
+        "ratings": 770,
+        "type": "All-rounder",
+        "price": 1600000
+    },
+    {
+        "id": 8,
+        "name": "Tamim Iqbal",
+        "country": "Bangladesh",
+        "image": "https://api.bdcrictime.com/tamim-iqbal-15_03_2022.jpg",
+        "position": "Opening Batsman",
+        "ratings": 530,
+        "type": "Batsman",
+        "price": 400000
+    },
+    {
+        "id": 9,
+        "name": "Joe Root",
+        "country": "England",
+        "image": "https://static.independent.co.uk/2024/02/23/14/23-c94ed482861f4a229a9497f5184b8d41.jpg",
+        "position": "Top-order Batter",
+        "ratings": 758,
+        "type": "Batsman",
+        "price": 1200000
+    },
+    {
+        "id": 10,
+        "name": "Mushfiqur Rahim",
+        "country": "Bangladesh",
+        "image": "https://thebiographyworld.com/wp-content/uploads/2024/10/Mushfiqur-Rahim-Biography.webp",
+        "position": "Middle-order Batsman",
+        "ratings": 80,
+        "type": "Batsman-Wicketkeeper",
+        "price": 300000
+    },
+    {
+        "id": 11,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://saudigazette.com.sa/uploads/images/2019/07/10/1293476.JPG",
+        "position": "Top-order Batter",
+        "ratings": 755,
+        "type": "Batsman",
+        "price": 1100000
+    },
+    
+    {
+        "id": 12,
+        "name": "AB de Villiers",
+        "country": "South Africa",
+        "image": "https://images.indianexpress.com/2019/12/ab-de-villiers-1200.jpg",
+        "position": "Middle-order Batsman",
+        "ratings": 96,
+        "type": "Batsman-Wicketkeeper",
+        "price": 200000
+    }
+]
